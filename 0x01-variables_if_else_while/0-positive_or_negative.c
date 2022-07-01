@@ -1,7 +1,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-int main(void) 
+/**
+* main - entry
+* Return zero 0 always
+*/
+int main(void)
 {
 	int n;
 
