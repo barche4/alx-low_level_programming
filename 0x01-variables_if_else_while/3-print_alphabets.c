@@ -13,7 +13,7 @@ int main(void)
 
 	for (up_case = 'A'; up_case <= 'Z'; ++up_case)
 	putchar(up_case);
-        putchar('\n');
+	putchar('\n');
 
     return (0);
 }
