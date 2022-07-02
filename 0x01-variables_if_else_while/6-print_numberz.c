@@ -1,7 +1,6 @@
 #include <stdio.h>
-#include <stdio.h>
 /**
-* main -> two alphabet
+* main -> return base 10 start from 0
 * Return: Always 0 (Success)
 */
 int main(void)
