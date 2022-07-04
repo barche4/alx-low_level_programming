@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main ->
+ * main -> puts command
  * Return: Always 0 (Sucess) 
  */
 int main(void)
